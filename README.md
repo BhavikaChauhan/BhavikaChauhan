@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNvNmNxZ3o1Z3RzOGxxcnFjdmJpMW5leWEwaXoxMTRoNDdoNjdjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="30px"/> Hi, I'm Bhavika Chauhan!
+  Hi, I'm Bhavika Chauhan!
 </h1>
 
 <h3 align="center">
@@ -7,19 +7,27 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Cloud+Pipelines+with+DevOps✨;Automating+Everything+I+Can+🛠️;&center=true&width=440&height=45&color=F7F7F7&vCenter=true&pause=1000&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Cloud+Pipelines+with+DevOps✨;Automating+Everything+I+Can+🛠️;&center=true&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000&size=20" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi there! I'm Bhavika — a curious mind diving deep into the world of **DevOps, Cloud Infrastructure, and Automation**.  
-I’m passionate about making software delivery faster, smoother, and a lot more fun (because let’s face it, watching a clean pipeline run is ✨ satisfying ✨).
-
-🔧 I build with tools like **AWS, Docker, GitHub Actions, Terraform**, and love automating the heck out of things.  
-
-Let’s connect, collaborate, and make cool stuff together!
+<table>
+  <tr>
+    <td>
+      <p>
+        I'm Bhavika, a DevOps enthusiast passionate about automation, cloud infrastructure, and smooth CI/CD pipelines. 
+        I love building scalable systems and streamlining deployment processes.  
+        Currently exploring AWS, Terraform, Docker, Jenkins, and GitHub Actions 🚀
+      </p>
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNvNmNxZ3o1Z3RzOGxxcnFjdmJpMW5leWEwaXoxMTRoNDdoNjdjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -72,4 +80,3 @@ Let’s connect, collaborate, and make cool stuff together!
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
