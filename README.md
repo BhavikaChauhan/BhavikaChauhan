@@ -59,7 +59,7 @@
 ## 🚀 Featured Projects
 
 - 🔁 **[CI/CD for Static Website using GitHub Actions, S3 & CloudFront](https://github.com/BhavikaChauhan/Static-Website-on-AWS.git)**  
-  _Published in [AWS in Plain English](https://medium.com/aws-in-plain-english/ci-cd-for-static-website-on-aws-using-github-actions-s3-cloudfront-70f0c5f6e3d2)_  
+  _Published in [AWS in Plain English](https://medium.com/aws-in-plain-english/ci-cd-for-static-website-on-aws-s3-cloudfront-github-actions-6fd656c01b2e)_  
   Automates deploys with rollback support, SSL & versioning.
 
 - 🧩 **[3-Tier Microservice Deployment with Azure & ArgoCD](https://github.com/BhavikaChauhan/example-voting-app.git)**  
@@ -71,8 +71,10 @@
 
 ## ✍️ My Writing
 
-- **Medium DevOps Blog** → [medium.com/@bhavikachauhan129](https://medium.com/@bhavikachauhan129)  
-- **Weekly Newsletter (ConvertKit)** → [Subscribe here](https://bengineered.ck.page/) for cloud/devops gems
+- 📚 **CI/CD for Static Website on AWS** → [Read](https://medium.com/aws-in-plain-english/ci-cd-for-static-website-on-aws-s3-cloudfront-github-actions-6fd656c01b2e)
+- 📚 **Infrastructure as Code with Terraform & EC2** → [Read](https://medium.com/@bhavika.engineered/infrastructure-as-code-iac-what-it-is-terraform-ec2-demo-real-world-practices-a4eee3151255)
+- 📝 **All Articles** → [medium.com/@bhavika.engineered](https://medium.com/@bhavika.engineered)
+- ✉️ **Newsletter** → [Subscribe on ConvertKit](https://bhavika-engineered.kit.com/85eedbad31)
 
 ---
 
@@ -94,10 +96,13 @@
   <a href="https://linkedin.com/in/bhavika-chauhan-276b41332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@bhavikachauhan129" target="_blank">
+  <a href="https://medium.com/@bhavika.engineered" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://bengineered.ck.page/" target="_blank">
+  <a href="https://bhavika-engineered.kit.com/85eedbad31" target="_blank">
     <img src="https://img.shields.io/badge/Subscribe-ConvertKit-ff6663?style=for-the-badge&logo=convertkit&logoColor=white"/>
   </a>
 </p>
+
+
+
