@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 DevOps Engineer | Cloud & CI/CD Expert | Automation Specialist
+  🚀 DevOps Engineer | CI/CD & Cloud Infrastructure | Automation Enthusiast
 </h3>
 
 <p align="center">
@@ -18,9 +18,13 @@
   <tr>
     <td>
       <p>
-        I'm Bhavika, a DevOps enthusiast passionate about automation, cloud infrastructure, and smooth CI/CD pipelines. 
-        I love building scalable systems and streamlining deployment processes.  
-        Currently exploring AWS, Terraform, Docker, Jenkins, and GitHub Actions 🚀
+        I'm Bhavika, a DevOps engineer driven by a passion for automation, clean infrastructure, and fast, reliable CI/CD workflows.
+        <br><br>
+        From deploying scalable apps on AWS to crafting secure, automated pipelines using GitHub Actions, I believe great engineering is a mix of simplicity, reproducibility, and speed.
+        <br><br>
+        Currently exploring: AWS, Terraform, Docker, Jenkins, ArgoCD, GitHub Actions, and more.
+        <br><br>
+        I also write beginner-friendly DevOps content on Medium and share weekly tips via my newsletter ✍️
       </p>
     </td>
     <td>
@@ -52,12 +56,23 @@
 
 ---
 
-## 🚀 Project Showcases
+## 🚀 Featured Projects
 
-- [⚙️ 3-Tier Microservice Application on Azure & ArgoCD](https://github.com/BhavikaChauhan/example-voting-app.git)
-- [🌐 Static Website Deployment with CI/CD using GitHub Actions & AWS S3](https://github.com/BhavikaChauhan/Static-Website-on-AWS.git)
+- 🔁 **[CI/CD for Static Website using GitHub Actions, S3 & CloudFront](https://github.com/BhavikaChauhan/Static-Website-on-AWS.git)**  
+  _Published in [AWS in Plain English](https://medium.com/aws-in-plain-english/ci-cd-for-static-website-on-aws-using-github-actions-s3-cloudfront-70f0c5f6e3d2)_  
+  Automates deploys with rollback support, SSL & versioning.
 
-*More automation magic coming soon...*
+- 🧩 **[3-Tier Microservice Deployment with Azure & ArgoCD](https://github.com/BhavikaChauhan/example-voting-app.git)**  
+  Cloud-native microservices deployed using GitOps principles.
+
+✨ _More automation magic coming soon..._
+
+---
+
+## ✍️ My Writing
+
+- **Medium DevOps Blog** → [medium.com/@bhavikachauhan129](https://medium.com/@bhavikachauhan129)  
+- **Weekly Newsletter (ConvertKit)** → [Subscribe here](https://bengineered.ck.page/) for cloud/devops gems
 
 ---
 
@@ -70,7 +85,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Let’s Connect
 
 <p align="left">
   <a href="mailto:bhavika.chauhan.129@gmail.com">
@@ -78,5 +93,11 @@
   </a>
   <a href="https://linkedin.com/in/bhavika-chauhan-276b41332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@bhavikachauhan129" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://bengineered.ck.page/" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-ConvertKit-ff6663?style=for-the-badge&logo=convertkit&logoColor=white"/>
   </a>
 </p>
