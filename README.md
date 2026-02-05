@@ -74,7 +74,6 @@
 - 📚 **CI/CD for Static Website on AWS** → [Read](https://medium.com/aws-in-plain-english/ci-cd-for-static-website-on-aws-s3-cloudfront-github-actions-6fd656c01b2e)
 - 📚 **Infrastructure as Code with Terraform & EC2** → [Read](https://medium.com/@bhavika.engineered/infrastructure-as-code-iac-what-it-is-terraform-ec2-demo-real-world-practices-a4eee3151255)
 - 📝 **All Articles** → [medium.com/@bhavika.engineered](https://medium.com/@bhavika.engineered)
-- ✉️ **Newsletter** → [Subscribe on ConvertKit](https://bhavika-engineered.kit.com/85eedbad31)
 
 ---
 
@@ -98,9 +97,6 @@
   </a>
   <a href="https://medium.com/@bhavika.engineered" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://bhavika-engineered.kit.com/85eedbad31" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe-ConvertKit-ff6663?style=for-the-badge&logo=convertkit&logoColor=white"/>
   </a>
 </p>
 
