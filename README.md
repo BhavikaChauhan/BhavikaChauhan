@@ -1,3 +1,4 @@
+![Freelance](https://img.shields.io/badge/🟢_Open_to-Freelance_Work-238636?style=flat-square)
 <h1 align="center">
   Hi, I'm Bhavika Chauhan!
 </h1>
@@ -50,7 +51,6 @@
 ### ☁️ Cloud Platforms
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40"/>
 </p>
 
@@ -91,9 +91,6 @@
 <p align="left">
   <a href="mailto:bhavika.chauhan.129@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/bhavika-chauhan-276b41332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://medium.com/@bhavika.engineered" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
